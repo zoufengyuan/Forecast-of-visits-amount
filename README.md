@@ -5,4 +5,4 @@
 用python连接数据库读取原始数据，对各信息的数据表进行清洗得到清洗后的数据(见data_samples)
 主要的清洗有：
 对患者的疾病编码进行清洗，清洗逻辑如下：
-
+![I20_I25_荔湾_预测结果图](https://github.com/zoufengyuan/Forecast-of-visits-amount/blob/main/I20_I25_%E8%8D%94%E6%B9%BE_%E9%A2%84%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%9B%BE.jpg)
